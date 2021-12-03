@@ -86,3 +86,7 @@ Question:
 What is the life support rating of the submarine? (Be sure to represent your answer in decimal, not binary.)
 
 Answer:
+Your puzzle answer was ```4636702```.
+
+Both parts of this puzzle are complete! They provide two gold stars: **
+
