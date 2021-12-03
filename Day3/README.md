@@ -41,6 +41,9 @@ Answer:
 Your puzzle answer was ```845186```.
 
 The first half of this puzzle is complete! It provides one gold star: *
+
+
+
 --- Part Two ---
 
 Next, you should verify the life support rating, which can be determined by multiplying the oxygen generator rating by the CO2 scrubber rating.
