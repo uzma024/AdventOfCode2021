@@ -67,4 +67,6 @@ Then, multiply that sum by the number that was just called when the board won, `
 QUESTION:
 To guarantee victory against the giant squid, figure out which board will win first. What will your final score be if you choose that board?
 
+To begin, get your [puzzle input](https://adventofcode.com/2021/day/4/input):.
+
 ANSWER:
