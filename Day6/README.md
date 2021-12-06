@@ -78,3 +78,5 @@ How many lanternfish would there be after 256 days?
 ANSWER:
 
 
+Although it hasn't changed, you can still get your [puzzle input](https://adventofcode.com/2021/day/6/input).
+
