@@ -62,8 +62,8 @@ This changes the best horizontal position to align them all on; in the example a
 - Move from 1 to 5: 10 fuel
 - Move from 2 to 5: 6 fuel
 - Move from 14 to 5: 45 fuel
-This costs a total of 168 fuel. This is the new cheapest possible outcome; the old alignment position (2) now costs 206 fuel instead.
 
+This costs a total of 168 fuel. This is the new cheapest possible outcome; the old alignment position (2) now costs 206 fuel instead.
 Determine the horizontal position that the crabs can align to using the least fuel possible so they can make you an escape route! 
 
 QUESTION: How much fuel must they spend to align to that position?
