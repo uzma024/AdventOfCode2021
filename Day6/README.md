@@ -75,7 +75,7 @@ After ```256``` days in the example above, there would be a total of ```26984457
 QUESTION:
 How many lanternfish would there be after 256 days?
 
-ANSWER:
+ANSWER:```1592918715629```.
 
 
 Although it hasn't changed, you can still get your [puzzle input](https://adventofcode.com/2021/day/6/input).
