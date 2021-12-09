@@ -84,6 +84,13 @@ Find the three largest basins and multiply their sizes together. In the above ex
 
 QUESTION: What do you get if you multiply together the sizes of the three largest basins?
 
-Answer:  
-
 Although it hasn't changed, you can still get your [puzzle input](https://adventofcode.com/2021/day/9/input).
+
+Answer:  
+Your puzzle answer was ```1330560``` .
+
+Both parts of this puzzle are complete! They provide two gold stars: **
+
+At this point, you should return to your Advent calendar and try another puzzle.
+
+
