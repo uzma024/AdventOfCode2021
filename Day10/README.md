@@ -59,7 +59,7 @@ It's true! To calculate the syntax error score for a line, take the first illega
 - ): 3 points.
 - ]: 57 points.
 - }: 1197 points.
-- >: 25137 points.
+- and >:  25137 points.
 
 In the above example, an illegal ) was found twice (2*3 = 6 points), an illegal ] was found once (57 points), 
 an illegal } was found once (1197 points), and an illegal > was found once (25137 points). 
@@ -89,7 +89,7 @@ In the example above, there are five incomplete lines:
 - (((({<>}<{<{<>}{[]{[]{} - Complete by adding }}>}>)))).
 - {<[[]]>}<{[{[{[]{()[[[] - Complete by adding ]]}}]}]}>.
 - <{([{{}}[<[[[<>{}]]]>[]] - Complete by adding ])}>.
-- 
+
 Did you know that autocomplete tools also have contests? 
 It's true! The score is determined by considering the completion string character-by-character. 
 Start with a total score of 0. Then, for each character, multiply the total score by 5 and 
@@ -98,8 +98,8 @@ then increase the total score by the point value given for the character in the 
 - ): 1 point.
 - ]: 2 points.
 - }: 3 points.
-- >: 4 points.
-- 
+- and >: 4 points.
+
 So, the last completion string above - ])}> - would be scored as follows:
 
 - Start with a total score of 0.
