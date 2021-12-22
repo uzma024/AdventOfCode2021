@@ -110,7 +110,7 @@ After executing these steps in the initialization procedure region, ```590784```
 
 Execute the reboot steps. Afterward, considering only cubes in the region ```x=-50..50,y=-50..50,z=-50..50```, how many cubes are on?
 
-To begin, get your [puzzle input]{https://adventofcode.com/2021/day/22/input} .
+To begin, get your [puzzle input](https://adventofcode.com/2021/day/22/input) .
 
 Answer:  
 
